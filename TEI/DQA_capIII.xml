@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="quijote_avellaneda">Fragmento del Quijote de Avellaneda</title>             
+                <author>Alonso Fernández de Avellaneda</author>
+                <editor resp="crítica">Florencio Sevilla Arroyo</editor>
+                <editor resp="digital">Daphne Cornejo</editor>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Curso de edición digital, Competencias transversales para la digitalización del patrimonio textual</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title>Segundo tomo del ingenioso hidalgo Don Quixote de la Mancha, que contiene su tercera salida : y es la quinta parte de sus aventuras</title>
+                <author>Alonso Fernández de Avellaneda</author>
+                <publisher>Casa de Felipe Roberto</publisher> 
+                <date>1614</date>
+                <pubPlace>Tarragona, España</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/32541</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+        <text>
+            <body>
+<pb n="16v"/>
+<div><p>Segunda Parte de
+mente quanto me dixere, y piensa dezir todos
+los dias de su vida. Harto trabajo tiene vn hom-
+bre, dixo <persName key="quijote">don Quixote</persName>, que trata cosas de peso,
+con saluajes como este, quierole dexar dormir,
+que yo mientras que no diere fin, y cabo a estas
+honrad as justas, ganando en ellas el primero, se-
+gundo, y tercero dia, las joyas de mas importan-
+cia que huuiere: no quiero dormir, sino velar,
+traçando con la imaginacion, lo que despues ten-
+go de poner por efecto, como haze el Sabio Ar-
+chitecto, que antes que comience la obra, tiene
+confusamente en su imaginatiua todos los apo-
+sentos, partios, chapiteles, y ventanas de la casa,
+para despues sacallos perfetamente a luz. En fin
+al buen hidalgo se le passò lo que de la noche
+quedaua, haziendo grandissimas quimeras, en su
+desuanecida fantasia, ya hablando con los caua-
+lleros, ya con los juezes de las justas, pidiendo-
+les el premio, ya finalmente saludando con gran
+dissima mesura, a vna dama hermosissima, y ri-
+camente adereçada, a quien presentaua des del
+cauallo con la punta de la lança vna rica joya.
+Con estos y otros semejantes desuanecimientos,
+se quedò al cabo adormido.</p></div>
+
+<div>
+<head>CAP. III DE COMO EL CVRA Y <persName key="quijote">DON
+Quixote</persName> se despidieron de aquellos Caualleros, y de lo
+que a el se sucedio con <persName key="sancho">Sancho Pança</persName> despues de ellos
+ydos.</head>
+<p>vn</p></div>
+
+<pb n="17r"/>
+<div><p>don Quixote de la mancha 17
+Vua hora antes que amaneciesse, llegaron a
+la puerta de <persName key="quijote">don Quixote</persName>, el Cura, y los Al-
+caldes, a llamar que venian a despertar al señor
+don Aluaro, a cuyas vozes <persName key="quijote">don Quixote</persName> llamò
+a <persName key="sancho">Sacho Pança</persName> para que les fuesse a abrir, el qual
+despertò con harto dolor de su coraçon; entra-
+dos que fueron al aposento de don Aluaro, el Cu-
+ra se asentò junto a su cama, y le començò apre-
+guntar como le auia ydo con su huesped, a lo qual
+respondio, contandole breuemente lo que con
+el, y con <persName key="sancho">Sancho Pança</persName> le auia passado aquella
+noche, y dixo que sino fuera el plaço de las justas
+tan corto, se quedara alli quatro, o seys dias, a
+gustar de la buena conuersacion de su huesped,
+pero propuso de estarse alli mas de espacio a la
+buelta. El cura le contó, todo lo que <persName key="quijote">don Quixo-
+te</persName> era, y lo que con el le auia acontecido, el año
+passado, de lo qual quedó muy marauillado, y
+mudando platica, fingieron hablauan de otro,
+porque vieron entrar a <persName key="quijote">don Quixote</persName>, con cuyos
+buenos dias, y apazible vision, se leuantò don Al-
+uaro, y mandò aprestar los cauallos, y demas re-
+cado para yrse. Entretanto los Alcaldes, y el Cu-
+ra boluieron a dar de almorzar a sus huespedes,
+quedando concertados que todos boluerian a
+casa de <persName key="quijote">don Quixote</persName>, para partirse desde alli jun
+tos. Ydos ellos, y vestido don Aluaro, dixo apar-
+te a <persName key="quijote">don Qutxote</persName>, señor mio, v.m. me la ha de
+hazer, de que vnas armas grauadas, de Milan que
+C traygo</p></div>
+</body>
+</text>
+</TEI>
